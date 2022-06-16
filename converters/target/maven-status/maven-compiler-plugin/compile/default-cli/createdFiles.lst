@@ -1,0 +1,4 @@
+com\convertisseurs\converters\UserToString.class
+com\convertisseurs\converters\User.class
+com\convertisseurs\converters\StringToUser.class
+com\convertisseurs\converters\main.class
